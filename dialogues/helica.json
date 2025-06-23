@@ -1,0 +1,28 @@
+{
+  "succubus": "Helica",
+  "scenes": [
+    {
+      "text": "👠 *Helica* s’approche lentement de toi. \n\n(_Elle te dévisage avec un sourire en coin, ses yeux brillants d’un désir joueur._)\n\n— « Tiens donc… un humain ? Tu n’as rien à faire ici. Mais tu es mignon. Que vas-tu faire maintenant, mon petit intrus ? »",
+      "options": [
+        {
+          "text": "💋 Embrasse-moi (100 énergie)",
+          "energy_cost": 100,
+          "ps_gain": 25,
+          "response": "(_Helica sourit, légèrement surprise._)\n\n— « Audacieux... ça me plaît. »"
+        },
+        {
+          "text": "🤲 Caresse sa cuisse (250 énergie)",
+          "energy_cost": 250,
+          "ps_gain": 50,
+          "response": "(_Elle frissonne légèrement, mais ne recule pas._)\n\n— « Intéressant… Tu oses prendre l’initiative. »"
+        },
+        {
+          "text": "🧍 Rester immobile (0 énergie)",
+          "energy_cost": 0,
+          "ps_gain": 10,
+          "response": "(_Helica éclate d’un rire moqueur._)\n\n— « Hmm… trop timide ? Ou trop malin pour gaspiller ton énergie ? »"
+        }
+      ]
+    }
+  ]
+}
